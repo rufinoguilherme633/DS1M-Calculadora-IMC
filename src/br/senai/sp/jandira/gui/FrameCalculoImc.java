@@ -23,6 +23,7 @@ public class FrameCalculoImc {
 	public Font fonteDosLabels;
 	public Color corDoTextoDoBotao;
 	public Color corDoBotao;
+	public String  test;
 	
 	public void criarTela() {
 		
